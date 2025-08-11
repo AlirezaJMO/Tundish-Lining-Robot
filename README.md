@@ -3,7 +3,7 @@
 A comprehensive robotic system designed for the automated application of refractory lining in industrial tundishes. This repository contains the design files, simulation code, and documentation for our final Mechatronics course project.
 
 ![Tundish Robot Simulation](./assets/tundishUR20.gif)
-*^ Note: To display your GIF, please upload `tundishUR20.gif` to an `assets` folder in this repository.*
+
 
 ---
 
