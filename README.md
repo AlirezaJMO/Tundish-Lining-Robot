@@ -24,8 +24,9 @@ The manual application of refractory lining inside a tundish is a hazardous, tim
 
 ## 🛠️ Technology & Software Stack
 
-- **CAD Software:** ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA1F28?style=for-the-badge&logo=solidworks&logoColor=white)
-- **Simulation & Programming:** ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+- **CAD Software:** ![SolidWorks](CAD)
+- **Simulation & Programming:** ![MATLAB]([https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white](https://github.com/AlirezaJMO/Tundish-Lining-Robot/tree/1f918ae4ecbdd1daf0ff5255b2d36b7d8714df40/MatlabFiles))
+- **Datasheets ![Datasheets](Datasheets)
 - **Presentation:** ![Prezi](https://img.shields.io/badge/Prezi-3D4146?style=for-the-badge&logo=prezi&logoColor=white)
 
 ## 📁 Repository Structure
@@ -34,6 +35,7 @@ The manual application of refractory lining inside a tundish is a hazardous, tim
 .
 ├── 📂 CAD/                      # Contains all SolidWorks design files (.SLDPRT, .SLDASM)
 ├── 📂 Simulation/               # Contains all MATLAB scripts (.m) for simulation
+├── 📂 Datasheets/               # Contains all datasheets
 ├── 📂 assets/                   # Contains project media like GIFs and images
 │   └── tundishUR20.gif
 └── 📄 README.md                # The file you are currently reading
