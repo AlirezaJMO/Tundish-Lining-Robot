@@ -27,7 +27,7 @@ The manual application of refractory lining inside a tundish is a hazardous, tim
 - **CAD Software:** ![SolidWorks](CAD)
 - **Simulation & Programming:** ![MATLAB](MatlabFiles)
 - **Datasheets:** ![Datasheets](Datasheets)
-- **Presentation:** ![Prezi](https://img.shields.io/badge/Prezi-3D4146?style=for-the-badge&logo=prezi&logoColor=white)
+- **Presentation:** ![Prezi](https://prezi.com/view/IGm1Mo9iTPEnZJsV96Pa/)
 
 ## 📁 Repository Structure
 
