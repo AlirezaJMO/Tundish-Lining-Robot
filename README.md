@@ -4,7 +4,6 @@ A comprehensive robotic system designed for the automated application of refract
 
 ![Tundish Robot Simulation](./assets/tundishUR20.gif)
 
-
 ---
 
 ## 📜 Project Overview
